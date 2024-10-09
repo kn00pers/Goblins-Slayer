@@ -1,6 +1,6 @@
-# Goblin Slayer
+# Goblins Slayer
 
-**Goblin Slayer** is a thrilling 2D action game where you step into the shoes of a valiant knight, tasked with surviving endless waves of goblin attacks. As each wave becomes more challenging, your skills in combat will be pushed to the limit. The goal is simple: survive as long as possible and slay as many goblins as you can. Are you prepared to face the relentless hordes and become the ultimate Goblin Slayer?
+**Goblins Slayer** is a thrilling 2D action game where you step into the shoes of a valiant knight, tasked with surviving endless waves of goblin attacks. As each wave becomes more challenging, your skills in combat will be pushed to the limit. The goal is simple: survive as long as possible and slay as many goblins as you can. Are you prepared to face the relentless hordes and become the ultimate Goblin Slayer?
 
 ## Features
 
